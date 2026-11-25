@@ -1,4 +1,4 @@
-# Consumer-Complaint-Categorization-ML-Copy
+# Consumer-Complaint-Categorization-ML
 Machine learning project for consumer complaint categorization using Python, TF-IDF, Random Forest and KNN.
 
 # Consumer Complaint Categorization Using Machine Learning
